@@ -22,7 +22,7 @@ For any other use, please contact me. I don't bite :)
 
 ## How to use
 
-Download this repo as a zip and follow guide for either the Unity edition or Blender edition. If you have any problems, you can contact me on Discord `Narnia#ʘO∅1`.
+Download this repo as a zip and follow guide for either the Unity edition or Blender edition. If you have any problems, you can contact me on Discord `Narnia#ʘO∅1` (all the weird characters are `0`).
 
 ### Unity
 
@@ -44,7 +44,7 @@ Using the blender version is preferred since you will be joining the mesh from t
 1. Ensure your model already has been texture atlased.
 2. Add the glasses to your mesh and merge them with CATS Blender Tool.
 3. Edit your atlasses for the frame of the glasses. You might want to peek at the UV mapping to see how everything is placed.
-    - Optionally, if already are using emmision en alpha textures, you can also move the UV maps from the LEDs. If you do it like this, you won't need any extra materials at all and **have no performance impact!**
+    - Optionally, if already are using emmision and alpha textures, you can also move the UV maps from the LEDs. If you do it like this, you won't need any extra materials at all and **have no performance impact!**
 4. Scale and move the UV coordinates from the glasses to fit the part of the texture you just made.
 5. Export everything to Unity, and do the animations. See step 4 from the Unity guide.
 
